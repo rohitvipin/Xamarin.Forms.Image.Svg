@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Rohit Vipin Mathews</Authors>
+    <Description>Xamarin.Forms SvgImage based on SkiaSharp</Description>
+    <PackageProjectUrl>https://github.com/rohitvipin/Xamarin.Forms.Image.Svg</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/rohitvipin/Xamarin.Forms.Image.Svg</RepositoryUrl>
+    <PackageTags>xamarin.forms, svg, image</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SkiaSharp.Svg" Version="1.60.0" />
+    <PackageReference Include="SkiaSharp.Views.Forms" Version="2.88.3" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2515" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Image.Svg", "Xamarin.Forms.Image.Svg\Xamarin.Forms.Image.Svg.csproj", "{F16077B0-3B8B-49CF-97E7-2C8C4C9F8869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F16077B0-3B8B-49CF-97E7-2C8C4C9F8869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16077B0-3B8B-49CF-97E7-2C8C4C9F8869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16077B0-3B8B-49CF-97E7-2C8C4C9F8869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16077B0-3B8B-49CF-97E7-2C8C4C9F8869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CCF542B-F8EA-46F2-A5E7-0CA5D2220DFA}
+	EndGlobalSection
+EndGlobal
