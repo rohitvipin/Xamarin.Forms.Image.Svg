@@ -7,7 +7,7 @@
     <PackageProjectUrl>https://github.com/rohitvipin/Xamarin.Forms.Image.Svg</PackageProjectUrl>
     <RepositoryUrl>https://github.com/rohitvipin/Xamarin.Forms.Image.Svg</RepositoryUrl>
     <PackageTags>xamarin.forms, svg, image</PackageTags>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

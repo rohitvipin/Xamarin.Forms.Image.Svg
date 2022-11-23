@@ -5,7 +5,7 @@ using SkiaSharp;
 using SkiaSharp.Views.Forms;
 using SKSvg = SkiaSharp.Extended.Svg.SKSvg;
 
-namespace Xamarin.Forms.Image.Svg
+namespace Xamarin.Forms.Skia.Image.Svg
 {
     public class SvgImage : Frame
     {
